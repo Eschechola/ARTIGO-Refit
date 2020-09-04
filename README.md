@@ -1,3 +1,3 @@
 # ARTIGO-Refit
-Projeto utilizado como exemplo no artigo sobre consumo de API's usando REFIT
+Projeto utilizado como exemplo no artigo sobre consumo de API's usando REFIT<br>
 Link: Em desenvolvimento...
